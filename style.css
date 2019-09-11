@@ -1,0 +1,84 @@
+body{
+	background: url('images/newyork.jpg') no-repeat center center fixed;
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#wrapper{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+	padding: 12px;
+}
+
+#heading{
+	font-size: 48px;
+	color: orange;
+}
+
+#bands{
+
+}
+
+#one{
+	width: 28.9%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block; 
+
+}
+
+#two{
+	width: 28.9%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+
+#three{
+	width: 28.9%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+
+#one #featured-image{
+	background: url('images/bobdylan.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+#two #featured-image{
+	background: url('images/paulsimon.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+#three #featured-image{
+	background: url('images/nico.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
